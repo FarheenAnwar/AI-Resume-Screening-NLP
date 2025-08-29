@@ -1,0 +1,11 @@
+Serial: 3
+Name: CHARLOTTE MAY
+Email: N/A
+Phone: +1-713-645-3682
+Experience: Marketing Team
+Dell
+SAS programming SPSS (2018-Present); Metro (2018-2020)
+Upload Date: 
+JD Title: Data Science Intern
+Score: 0.5299999713897705
+Filename: resume1.txt

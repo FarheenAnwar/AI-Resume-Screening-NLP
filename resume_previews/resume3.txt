@@ -1,0 +1,14 @@
+Serial: 4
+Name: John Walker
+Email: N/A
+Phone: N/A
+Experience: New York
+Data Engineer Intern (2020-2021); Volunteering
+American Red Cross
+Volunteer Data Analyst (2018-2019); Provided data analysis to enhance operational efficiency and impact
+UNICEF USA
+Data Management Volunteer (2018-Present); Data Analytics (2016-2020)
+Upload Date: 
+JD Title: Data Science Intern
+Score: 0.5099999904632568
+Filename: resume3.txt

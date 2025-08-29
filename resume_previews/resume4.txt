@@ -1,0 +1,15 @@
+Serial: 1
+Name: MICHELLE SANDERS
+Email: mitchelle@gmail.com
+Phone: +924547557757
+Experience: Data Analyst
+IBM (2015-2018); Analyzed data from various sources to develop insights used to drive business strategies
+
+Junior Data Analyst
+Google (2013-2015); Computer Science with specialization in Data Science
+University of Chicago (2011-2013); Computer Science
+University of Illinois (2007-2011)
+Upload Date: 
+JD Title: Data Science Intern
+Score: 0.6100000143051147
+Filename: resume4.txt

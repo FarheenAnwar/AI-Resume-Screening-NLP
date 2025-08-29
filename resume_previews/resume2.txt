@@ -1,0 +1,15 @@
+Serial: 5
+Name: Jack Allen
+Email: N/A
+Phone: N/A
+Experience: IBM (2017-2020); SKILLS
+Junior Data Engineer
+Microsoft (2014-2017); IT Analyst
+Accenture (2012-2014); Degree in Data Science
+Technology Enthusiast
+Columbia University (2010-2012); Degree in Computer Science complex business challenges
+New York University (2006-2010)
+Upload Date: 
+JD Title: Data Science Intern
+Score: 0.4699999988079071
+Filename: resume2.txt

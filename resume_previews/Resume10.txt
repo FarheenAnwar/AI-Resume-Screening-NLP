@@ -1,0 +1,9 @@
+Serial: 3
+Name: DANIEL GALLEGO
+Email: hello@reallygreatsite.com
+Phone: N/A
+Experience: Morcelle Program Jan (2023-Present)
+Upload Date: 
+JD Title: AI Intern
+Score: 0.4699999988079071
+Filename: Resume10.txt

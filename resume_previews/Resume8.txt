@@ -1,0 +1,16 @@
+Serial: 9
+Name: RICHARD SANCHEZ
+Email: hello@reallygreatsite.com
+Phone: +123-456-7890
+Experience: Vestibulum (2020-2022); Australia (2010-2015); Expertise Education
+Management Skills Borcelle University
+Bachelor of Business Management
+Creativity (2014-2023); Digital Marketing
+Borcelle University
+Negotiation
+Master of Business Management
+Critical Thinking (2014-2018)
+Upload Date: 
+JD Title: AI Intern
+Score: 0.25
+Filename: Resume8.txt
